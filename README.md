@@ -23,9 +23,9 @@ This section covers everything about how your system looks and behaves for the u
 1.1 Visual / Interface Designs – User Interface Screens
 1.1.1 Checklist (Tick as you complete)
 
- I created a UI design for every required screen.
+🔥 I created a UI design for every required screen.
 
- I showed a clear user journey between screens.
+ 🔥I showed a clear user journey between screens.
 
 1.1.2 List of Screens
 
@@ -154,17 +154,17 @@ You must mention how your design supports accessibility standards.
 
 1.4.1 Accessibility Features Checklist
 
- Alt text for images
+ 🔥Alt text for images
 
- High contrast options
+ 🔥High contrast options
 
- Logical reading order
+ 🔥Logical reading order
 
- Keyboard navigation
+ 🔥Keyboard navigation
 
- Scalable fonts
+ 🔥Scalable fonts
 
- Consistent layout conventions
+ 🔥Consistent layout conventions
 
 1.4.2 Accessibility Explanation
 
@@ -187,19 +187,19 @@ Describe what the front-end must include.
 
 1.5.1 Checklist
 
- Pages needed (list)
+ 🔥Pages needed (list)
 
- Buttons / links defined
+ 🔥Buttons / links defined
 
- Forms defined
+ 🔥Forms defined
 
- Input validation rules
+ 🔥Input validation rules
 
- Navigation bar behaviour
+🔥 Navigation bar behaviour
 
- Mobile responsive layout
+🔥 Mobile responsive layout
 
- Media used (images, icons, videos)
+ 🔥Media used (images, icons, videos)
 
 1.5.2 Explanation
 
@@ -222,21 +222,21 @@ Explain what the back-end needs to do.
 
 1.6.1 Checklist
 
- Server processes (what the server does)
+🔥 Server processes (what the server does)
 
- Database operations required
+🔥 Database operations required
 
- Login / authentication flow
+🔥 Login / authentication flow
 
- Booking logic
+🔥 Booking logic
 
- Data validation rules
+🔥 Data validation rules
 
- API endpoints (if any)
+🔥 API endpoints (if any)
 
- Error handling
+🔥 Error handling
 
- Security controls (hashing, HTTPS, permissions)
+🔥 Security controls (hashing, HTTPS, permissions)
 
 1.6.2 Explanation
 
@@ -297,17 +297,17 @@ You must provide algorithms in pseudocode or flowcharts, plus justifications.
 2.1 Login Algorithm
 2.1.1 Requirements Checklist
 
- Inputs: username and password
+ 🔥Inputs: username and password
 
- Check account exists
+🔥 Check account exists
 
- Validate credentials
+ 🔥Validate credentials
 
- Handle errors (incorrect / blank)
+🔥 Handle errors (incorrect / blank)
 
- Output success or failure
+🔥 Output success or failure
 
- Justification written
+🔥 Justification written
 
 2.1.2 Description
 
@@ -326,19 +326,19 @@ Add your pseudocode or flowchart here.
 2.2 Register New User Algorithm
 2.2.1 Requirements Checklist
 
- Inputs: name, email, username, password
+🔥 Inputs: name, email, username, password
 
- Validate each field
+ 🔥Validate each field
 
- Check if username/email already exists
+ 🔥Check if username/email already exists
 
- Hash password
+🔥 Hash password
 
- Store user in database
+🔥 Store user in database
 
- Output success message
+ 🔥Output success message
 
- Justification written
+ 🔥Justification written
 
 2.2.2 Description
 
@@ -357,19 +357,19 @@ Add pseudocode or flowchart here.
 2.3 Booking Algorithm (Ticket or Hotel)
 2.3.1 Requirements Checklist
 
- Inputs: date, number of guests / rooms
+🔥 Inputs: date, number of guests / rooms
 
- Check availability
+🔥 Check availability
 
- Calculate price
+🔥 Calculate price
 
- Apply loyalty points (if used)
+🔥 Apply loyalty points (if used)
 
- Save booking
+🔥 Save booking
 
- Return confirmation or error
+🔥 Return confirmation or error
 
- Justification written
+🔥 Justification written
 
 2.3.2 Description
 
