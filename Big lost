@@ -1,0 +1,314 @@
+Absolutely — here’s a proper exam-ready checklist you can follow in order.
+
+The task brief says Task 1 needs two submissions: a proposal and a set of design documents. The proposal must include business context, requirements, decomposition, KPIs, acceptance criteria, solution description, justification, risk mitigation, and legal/regulatory points. The design documents must include visual/interface designs, data requirements, algorithm designs, and a test strategy.  ￼
+
+The distinction example is useful because it follows a strong structure with sections like Business context, Empathy map, User stories, Functional requirements, Non-functional requirements, Decomposition, KPIs, Description of proposed solution, Justification, Risk mitigation, Legal and regulatory requirements, and Appendices. That is a very good model to copy for your own layout.
+
+Task 1 checklist in the best order
+
+1. Before you start writing
+
+Use this first so you do not miss any exam rules.
+
+Check	What you need to do
+☐	Read the brief carefully and underline exactly what GLH wants the system to do. GLH needs producer information, product viewing, ordering for collection or delivery, account management, order history, and a producer dashboard. Suggested extra features include order tracking, loyalty scheme, and accessibility.  ￼
+☐	Decide on one clear solution. The safest choice is an interactive website/web app with a customer side and a producer dashboard. This matches the distinction example style well.
+☐	Do research outside the supervised time. Your notes can only contain facts and figures, not analysis. These notes must go in the appendix.
+☐	Remember that your work must be independent and anything not your own must be cited.
+
+
+⸻
+
+2. Proposal checklist — Activity A
+
+Section 1: Business context
+
+Check	Exactly what to write
+☐	Explain who Greenfield Local Hub (GLH) are. Say they are a cooperative of local farmers and food producers.  ￼
+☐	Explain what GLH already offers: a retail outlet, collective marketing, product management, stock control, and traceability.  ￼
+☐	Explain why they need a digital solution now.
+☐	Explain your proposed solution in one short paragraph, for example: “I am proposing an interactive website/web app for customers and producers.”
+☐	Keep this section similar to the distinction example, which introduces the client, what they do, and what the digital solution will achieve.  ￼
+
+Section 2: Empathy map
+
+Check	Exactly what to write
+☐	Create an empathy map for at least the main users, such as customer and producer.
+☐	Include headings like Says, Thinks, Does, Feels.
+☐	Base it on realistic needs, such as wanting easy ordering, clear stock, quick delivery options, and simple navigation.
+☐	This is not directly listed in the brief, but the distinction example uses it and it makes the proposal stronger.
+
+Section 3: User stories and acceptance criteria
+
+Check	Exactly what to write
+☐	Write user stories in the format As a… I want… so that…
+☐	Do this for key users such as customer, producer, and possibly GLH admin.
+☐	Add acceptance criteria after each story saying exactly what the system must do.
+☐	Use the distinction example as a model because it does this clearly.
+
+Good user stories to include:
+	•	As a customer, I want to browse products by category so that I can find items quickly.
+	•	As a customer, I want to place an order for collection or delivery so that I can choose the most convenient option.
+	•	As a customer, I want to view my order history so that I can check previous purchases.
+	•	As a producer, I want to update stock levels so that customers only see what is available.
+	•	As a producer, I want to update product details so that product information stays accurate.
+	•	As a producer, I want to view incoming orders so that I can prepare them on time.
+
+Section 4: Functional requirements
+
+Check	Exactly what to write
+☐	Make a section called Functional Requirements because the brief specifically asks for it.  ￼
+☐	Break it into pages or features, just like the distinction example does.
+☐	For each feature, explain what the system shows, what the user can do, what data is entered, and what happens after the user submits something.
+
+Best headings to use:
+	•	Homepage
+	•	Producers page
+	•	Product catalogue
+	•	Product details page
+	•	Basket / checkout
+	•	Delivery or collection booking
+	•	Customer account
+	•	Order history
+	•	Producer dashboard
+	•	Stock management
+	•	Loyalty scheme
+	•	Order tracking
+
+Section 5: Non-functional requirements
+
+Check	Exactly what to write
+☐	Make a section called Non-functional Requirements.  ￼
+☐	Include headings such as Security, Performance, Maintainability, Usability, Accessibility, Reliability.
+☐	Write clear statements like “The system must validate all user input” or “The website should load quickly on mobile devices.”
+☐	The distinction example includes security, maintainability, performance and accessibility, so that is a good model.
+
+Section 6: Decomposition
+
+Check	Exactly what to write
+☐	Add a section called Decomposition because the brief asks for it.  ￼
+☐	Break the full system into smaller parts.
+☐	Explain the smaller problems that must be solved for each part.
+☐	Follow the distinction example structure here.
+
+Good parts to decompose:
+	•	user registration and login
+	•	browsing products
+	•	searching and filtering
+	•	managing basket
+	•	placing an order
+	•	choosing collection or delivery
+	•	updating stock
+	•	managing product details
+	•	loyalty rewards
+	•	tracking orders
+
+Section 7: KPIs and user acceptance criteria
+
+Check	Exactly what to write
+☐	Add a KPIs section because the brief asks for this.  ￼
+☐	Split KPIs into business KPIs and website/system KPIs, like the distinction example.
+☐	Make each KPI measurable.
+☐	Add a separate User Acceptance Criteria section saying what must be true for users to accept the final solution.
+
+Good GLH KPIs:
+	•	number of completed orders per week
+	•	repeat customer rate
+	•	average order value
+	•	number of producers actively using the dashboard
+	•	product page conversion rate
+	•	page load time
+	•	basket abandonment rate
+	•	percentage of successful deliveries or collections
+
+Good user acceptance criteria:
+	•	users can find products in a small number of clicks
+	•	customers can place an order without confusion
+	•	producers can update stock without technical help
+	•	users can access the site on mobile
+	•	order history is visible in accounts
+	•	accessibility features work correctly
+
+Section 8: Description of proposed solution
+
+Check	Exactly what to write
+☐	Add a section called Description of Proposed Solution.
+☐	Summarise the whole system in a clear paragraph or two.
+☐	Mention the main features and the benefits for GLH and the users.
+☐	Use the distinction example’s summary style as inspiration.
+
+Section 9: Justification
+
+Check	Exactly what to write
+☐	Add a section called Justification.
+☐	Explain exactly how your solution meets the needs of the client and the users.
+☐	Link each main feature back to a specific need from the brief.
+☐	The distinction example does this by taking each client need and explaining how the feature solves it.
+
+Section 10: Risks and mitigation
+
+Check	Exactly what to write
+☐	Add a section called How potential risks will be mitigated because the brief specifically asks for this.  ￼
+☐	Identify realistic risks for your solution.
+☐	Explain how each risk will be reduced.
+☐	The distinction example includes risk sections like poor data quality, data loss, and data breaches.
+
+Good risks for GLH:
+	•	inaccurate stock data
+	•	incorrect delivery or collection times
+	•	duplicate orders
+	•	payment or checkout failure
+	•	data loss
+	•	data breach
+	•	poor accessibility
+	•	website slowdown at busy times
+
+Section 11: Legal and regulatory requirements
+
+Check	Exactly what to write
+☐	Add a section on legal and regulatory requirements because the brief requires it.  ￼
+☐	Explain how your solution will follow relevant laws and guidelines.
+☐	Keep it linked to both software development and food/retail context.
+☐	The distinction example includes a legal/regulatory section, so definitely include one.  ￼
+
+Good points to include:
+	•	UK GDPR for personal data
+	•	cookie/privacy requirements
+	•	Equality Act 2010
+	•	WCAG accessibility guidance
+	•	accurate pricing and product information
+	•	secure payment handling
+	•	stock traceability and accurate product records
+
+Section 12: Appendices
+
+Check	Exactly what to write
+☐	Put your research notes in the appendix.
+☐	Make sure the notes are facts and figures only if taken into supervised sessions.
+☐	Good appendix headings would be hardware/software, emerging technologies, meeting different user needs, and industry guidelines/regulations, like the distinction example.
+
+
+⸻
+
+3. Design documents checklist — Activity B
+
+The brief says your design documents must include visual/interface designs, data requirements, algorithm designs, and a test strategy. They also need enough detail for technical and non-technical stakeholders and for a third-party developer to build the solution.
+
+Section 1: Visual/interface designs
+
+Check	Exactly what to do
+☐	Create wireframes or mock-ups for the main pages.
+☐	Show page layout, buttons, navigation, forms, and key features.
+☐	Make it clear enough that another developer could build it.
+
+Best pages to design:
+	•	homepage
+	•	producers page
+	•	product listing
+	•	product details
+	•	basket
+	•	checkout
+	•	delivery / collection selection
+	•	login / register
+	•	customer account
+	•	order history
+	•	producer dashboard
+	•	stock edit page
+
+Section 2: Data requirements
+
+Check	Exactly what to do
+☐	Show what data the system needs to store.
+☐	Include entities/tables, key fields, and relationships.
+☐	Explain why each data item is needed.
+
+Likely entities:
+	•	Customer
+	•	Producer
+	•	Product
+	•	Category
+	•	Order
+	•	OrderItem
+	•	DeliverySlot
+	•	CollectionSlot
+	•	LoyaltyReward
+	•	StockRecord
+
+Section 3: Algorithm designs
+
+Check	Exactly what to do
+☐	Include a selection of algorithm designs.  ￼
+☐	Limit them to up to five complex problems, because the brief says not to show the whole solution and to keep it to several key problems.  ￼
+☐	Use flowcharts, pseudocode, or both.
+
+Best algorithms to include:
+	•	register/login validation
+	•	place order
+	•	check stock before confirming order
+	•	apply loyalty discount
+	•	update producer stock
+	•	assign collection or delivery slot
+
+Section 4: Test strategy
+
+Check	Exactly what to do
+☐	Use the test strategy template if your centre gave it to you. The task booklet says this template is provided.
+☐	Show the order in which you will test the system.  ￼
+☐	Show the types of tests for each component.  ￼
+☐	You do not need every single test, just a sensible selection relevant to your solution.  ￼
+
+Good test order:
+	1.	database and validation
+	2.	registration and login
+	3.	product browsing and search
+	4.	basket and checkout
+	5.	collection / delivery selection
+	6.	order history
+	7.	producer dashboard
+	8.	loyalty system
+	9.	end-to-end full order process
+
+⸻
+
+4. Final checks before submission
+
+Check	What you need to do
+☐	Make sure your proposal includes every required section from the brief.  ￼
+☐	Make sure your design documents include all four required parts.  ￼
+☐	Make sure the whole solution is big enough to show front-end and back-end work in at least two appropriate languages.
+☐	Make sure your documents are understandable to both technical and non-technical people.  ￼
+☐	Save the proposal as a PDF using the correct filename format.  ￼
+☐	Save the design documents as PDFs using the correct filename format.  ￼
+☐	Add citations where needed.  ￼
+
+
+⸻
+
+Best heading order to use in your proposal
+
+This is the cleanest order, based on the distinction example and the brief:
+	1.	Business Context
+	2.	Empathy Map
+	3.	User Stories and Acceptance Criteria
+	4.	Functional Requirements
+	5.	Non-Functional Requirements
+	6.	Decomposition
+	7.	KPIs
+	8.	User Acceptance Criteria
+	9.	Description of Proposed Solution
+	10.	Justification
+	11.	How Risks Will Be Mitigated
+	12.	Legal and Regulatory Requirements
+	13.	Appendices
+
+Most important thing to remember
+
+Do not just list features. For every section, keep linking back to:
+	•	what GLH asked for
+	•	what the users need
+	•	why your choice is suitable
+	•	how it will actually work
+
+That is what the distinction example does well, and that is what will make your work stronger.
+
+Next I can make you a fill-in template for Activity A with sentence starters under each heading.
